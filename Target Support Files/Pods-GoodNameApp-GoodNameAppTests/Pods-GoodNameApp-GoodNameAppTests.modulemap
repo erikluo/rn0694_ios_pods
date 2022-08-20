@@ -1,0 +1,6 @@
+module Pods_GoodNameApp_GoodNameAppTests {
+  umbrella header "Pods-GoodNameApp-GoodNameAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
